@@ -53,8 +53,9 @@ function App() {
       <h1
         style={{
           textAlign: "center",
-          color: "red",
+          color: "blue",
           textDecoration: "underline",
+          fontSize:"26px"
         }}
       >
         Line Chart

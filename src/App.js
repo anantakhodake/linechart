@@ -53,7 +53,7 @@ function App() {
       <h1
         style={{
           textAlign: "center",
-          color: "blue",
+          color: "green",
           textDecoration: "underline",
           fontSize:"26px"
         }}

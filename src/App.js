@@ -54,7 +54,6 @@ function App() {
         style={{
           textAlign: "center",
           color: "green",
-          textDecoration: "underline",
           fontSize:"26px"
         }}
       >

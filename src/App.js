@@ -54,7 +54,7 @@ function App() {
         style={{
           textAlign: "center",
           color: "gray",
-          fontSize:"26px"
+          fontSize:"24px"
         }}
       >
         Line Chart

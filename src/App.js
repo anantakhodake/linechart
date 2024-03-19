@@ -27,7 +27,7 @@ function App() {
           (hotel) => hotel.hotel.id === hotelObj.hotel.id
         ).length;
 
-        // remove duplicates hotels
+        // remove duplicates hotels objects
         const isExists = unique.find((obj) => obj.name === hotelObj.hotel.name);
 
         if (!isExists) {
@@ -53,7 +53,7 @@ function App() {
       <h1
         style={{
           textAlign: "center",
-          color: "gray",
+          color: "red",
           fontSize:"24px"
         }}
       >
